@@ -1,0 +1,53 @@
+.Search-Container{
+    margin: 1.3rem 0rem 1rem 1rem;
+
+}
+.btn-container{
+    display: inline;
+    margin-left: 0.7rem;
+   
+}
+
+.Search-button{
+    padding: 6px;
+    border-radius: 5px;
+    width: 80px;
+    background-color: blue;
+    border:none;
+    color: white;
+    cursor: pointer;
+    transition-property: all;
+    transition-duration: 1s;
+   
+    
+
+}
+.Surprise-button{
+    border-radius: 5px;
+    width: 100px;
+    padding: 6px;
+    margin-left:5px ;
+    background-color: skyblue;
+    border: none;
+    color: blue;
+    cursor: pointer;
+    transition-property: all;
+    transition-duration: 1s;
+
+}
+.Surprise-button:hover{
+    background-color: black;
+    color: white;
+}
+
+.Search-button:hover{
+    background-color: black;
+    color: white;
+}
+
+input{
+    padding: 5px;
+    border-radius: 2px;
+    border: 1px solid lightgray;
+    background-color: aquamarine;
+}
